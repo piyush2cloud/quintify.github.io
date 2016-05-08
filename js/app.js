@@ -1,3 +1,3 @@
-angular.module("poolin", ['poolin.controllers','angular-timeline','angular-scroll-animate']);
+angular.module("quintify", ['quintify.controllers','angular-timeline','angular-scroll-animate']);
 
 

@@ -1,4 +1,4 @@
-angular.module('poolin.controllers', [])
+angular.module('quintify.controllers', [])
 
     .controller("myCtrl", function ($scope, $timeout, $window) {
 
